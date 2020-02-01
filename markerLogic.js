@@ -2,7 +2,7 @@
 var myMap = L.map("map", {
   // center: [37.09, -95.71],
   center: [45.8, -124.1637],
-  zoom: 3
+  zoom: 4
 });
 
 // Add a tile layer
